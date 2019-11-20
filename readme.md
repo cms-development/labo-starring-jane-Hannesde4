@@ -20,6 +20,22 @@ Voor de copywriting werd er samen gewerkt met een psychologe zodat de teksten ze
 En voor de illustraties werd er samen gewerkt met Studio Monk.
 
 
+#### uitdaging
+Voor de ontwikkeling van de website zaten er ook nog enkele uitdagingen in.
+Er zat een klein "spelletje" in waarbij je een balon kon besturen, op smartphone was dit met de gyroscoop om te weten wat omhoog, en wat beneden is, en op desktop was dit met de pijltjestoetsen. Dit alles heeft een extra moeilijkheid, en veel berekeningen met zich meegebracht. Dit hebben ze dan ook uitgebreid eens toegelicht, en overlopen door middel van de code te reviewen.
+
+
+#### clean code
+Bij het overlopen van de code van deze case was het al snel duidelijk dat alle code mooi gestructureerd was, verdeeld over verschillende files. Al deze files hadden een voor de hand liggende duidelijke naam, waardoor alles snel terug te vinden was.
+Er werd ook verteld dat starring jane intern zelf een paar code conventies heeft opgezet, en dit zag je dan ook meteen aan hun werk.
+
+
 #### feedback
 De manier waarop het gastcollege gegeven was, was zeer interesant, zeker omdat we een echte case van hen overlopen hebben.
 Hierdoor kon je snel visueel zien hoe dingen werken. Hun uitleg was ook helder, en af en toe zat er een kleine interactie met de klas bij.
+Persoonlijk vond ik het heel aangenaam, en ik zou graag nog gastcolleges krijgen van starring jane.
+
+
+
+
+©Hannes De Baere - 2019
